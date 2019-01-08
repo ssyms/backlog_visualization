@@ -1,0 +1,51 @@
+state,untesting_kits,testing_status,inventory?,backlog_testing?,mandated?,informed?,track?,funding?,total,pending
+Alabama,Unknown,In Progress,0,0,0,0,0,0,0,0
+Alaska,2568,In Progress,1,1,0,0,0,1,3,0
+Arkansas,6424,In Progress,1,0,0,0,0,0,1,0
+Arizona,2217,In Progress,1,1,1,0,0,1,4,0
+California,13615,In Progress,1,0,0,1,1,1,4,0
+Colorado,3542,Completed,1,1,1,0,0,1,4,0
+Connecticut,1188,In Progress,1,1,1,1,1,0,5,0
+Delaware,1033,In Progress,1,1,0,0,0,0,2,0
+Florida,13435,In Progress,1,1,1,0,0,1,4,0
+Georgia,10314,In Progress,1,1,1,0,1,0,4,0
+Hawaii,1951,In Progress,1,1,1,1,1,1,6,0
+Iowa,4265,Unknown,1,1,0,0,0,0,2,0
+Idaho,1116,Unknown,1,0,0,1,1,1,4,0
+Illinois,Unknown,In Progress,1,1,1,1,1,0,5,0
+Indiana,4980,Unknown,1,0,0,0,1,0,2,0
+Kansas,2220,In Progress,1,1,0,0,0,0,2,0
+Kentucky,0,In Progress,1,1,1,1,0,1,5,0
+Louisiana,1133,In Progress,1,0,0,0,0,0,1,0
+Maine,Unknown,Unknown,0,0,0,0,0,0,0,0
+Maryland,6000,Unknown,1,0,0,1,1,0,3,0
+Massachusetts,Unknown,Unknown,1,1,1,1,1,0,5,1
+Michigan,1177,In Progress,1,1,1,1,1,1,6,0
+Minnesota,3482,In Progress,1,0,0,1,0,0,2,0
+Missouri,5424,In Progress,1,0,0,0,1,0,2,0
+Mississippi,Unknown,Unknown,0,0,0,0,0,0,0,0
+Montana,1188,In Progress,1,1,0,0,0,0,2,0
+North Carolina,15160,In Progress,1,0,0,0,1,0,2,0
+North Dakota,500,In Progress,0,0,0,0,0,0,0,0
+Nebraska,Unknown,Unknown,0,0,0,0,0,0,0,0
+New Hampshire,Unknown,Unknown,0,0,0,1,0,0,1,0
+New Jersey,Unknown,Unknown,0,0,0,0,0,0,0,1
+New Mexico,5302,Unknown,1,1,1,0,0,1,4,0
+Nevada,3772,In Progress,1,1,1,0,1,1,5,0
+New York,1981,In Progress,1,1,1,1,1,1,6,0
+Ohio,0,Completed,0,1,1,0,0,0,2,1
+Oklahoma,7270,Unknown,1,0,0,0,0,0,1,0
+Oregon,0,Completed,1,1,1,1,1,0,5,0
+Pennsylvania,1214,In Progress,1,1,1,1,0,0,4,0
+Rhode Island,Unknown,Unknown,0,0,0,0,0,0,0,0
+South Carolina,813,Unknown,0,0,0,0,0,0,0,0
+South Dakota,350,Unknown,0,0,1,0,0,0,1,0
+Tennessee,9062,In Progress,1,0,1,0,0,0,2,0
+Texas,2138,In Progress,1,1,1,1,1,1,6,0
+Utah,2700,In Progress,1,1,1,1,1,1,6,0
+Virginia,2369,In Progress,1,1,1,1,0,0,4,0
+Vermont,58,Unknown,0,0,0,1,0,0,1,0
+Washington,6460,In Progress,1,1,1,0,1,1,5,0
+Wisconsin,6391,In Progress,1,1,0,0,0,0,2,0
+West Virginia,2400,In Progress,1,0,0,0,0,0,1,0
+Wyoming,Unknown,Unknown,0,0,0,0,0,0,0,0
